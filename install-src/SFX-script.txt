@@ -1,0 +1,12 @@
+;Расположенный ниже комментарий содержит команды SFX-сценария
+
+Path=C:\roadsend
+SavePath
+Setup=patch.bat
+Overwrite=1
+Title=Лаунчер Roadsend PHP IDE для Windows 7
+Text
+{
+Укажите каталог с установленным Roadsend PHP Studio
+(Обычно C:\roadsend)
+}
